@@ -7,3 +7,4 @@ En este momento esamos actualizando el README.md para objetivos practicos
 
 * creado por juan
 * incluye algo
+* Disponible
