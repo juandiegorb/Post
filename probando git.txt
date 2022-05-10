@@ -2,4 +2,6 @@ Juan Diego esta probando como funciona git hoy
 
 Main 1
 
+Main 2
+
 mañana nos enfoncamos en la vida laboral
